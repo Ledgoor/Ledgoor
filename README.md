@@ -1,16 +1,33 @@
-### Hi there 👋
+![trophy](https://github-profile-trophy.vercel.app/?username=Ledgoor&theme=darkhub&no-bg=true&no-frame=true)
 
-<!--
-**Ledgoor/Ledgoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Rustam from Orenburg. Passionate about Microsoft services, Windows & PowerShell. Learning technologies that I found interesting.
 
-Here are some ideas to get you started:
+* Open-source enthusiast and maintainer :desktop_computer:
+* Love to help people :electric_plug:
+* I do like automation 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Yandex](https://img.shields.io/badge/-contsevoi2011@yandex.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:contsevoi2011@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/Ledgor)
+[![VK](https://img.shields.io/badge/-vk-blue)](https://vk.com/id173471051)
+[![Instagram](https://img.shields.io/badge/-insta-hotpink)](https://instagram.com/mr_black_crazy_boy)
+[![Codewars](https://www.codewars.com/users/Ledgor/badges/micro)](https://www.codewars.com/users/Ledgor)
+
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ledgoor&count_private=true&show_icons=true&theme=radical"/>
+</span>
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledgoor&theme=radical" />
+</span>
+
+<span>
+  <img src="https://github.com/tdakkota/tdakkota/blob/master/gopher.gif" />
+</span>
+
+<div 
+  style="display:flex;
+  justify-content: space-between;"
+>
+  
+  <a href="https://ru.stackoverflow.com/users/494394/ledgor" title="Stack Overflow на русском" target="_blank"><img style="width:100px" src="http://oliverstadie.com/wp-content/uploads/2014/04/stackoverflow-featured-image-945x331.png" border="0"></a>
+
+</div>

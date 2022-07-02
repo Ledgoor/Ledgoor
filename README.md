@@ -1,4 +1,6 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=Ledgoor&theme=darkhub&no-bg=true&no-frame=true)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ledgoor&theme=darkhub&no-bg=true&no-frame=true">
+</div>
 
 Hi, I am Rustam from Orenburg. Passionate about Microsoft services, Windows & PowerShell. Learning technologies that I found interesting.
 
@@ -12,16 +14,18 @@ Hi, I am Rustam from Orenburg. Passionate about Microsoft services, Windows & Po
 [![Instagram](https://img.shields.io/badge/-insta-hotpink)](https://instagram.com/mr_black_crazy_boy)
 [![Codewars](https://www.codewars.com/users/Ledgor/badges/micro)](https://www.codewars.com/users/Ledgor)
 
-<span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ledgoor&count_private=true&show_icons=true&theme=radical"/>
-</span>
-<span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledgoor&theme=radical" />
-</span>
 
-<span>
-  <img src="https://github.com/tdakkota/tdakkota/blob/master/gopher.gif" />
-</span>
+<div align="center">
+  <span>
+    <img src="https://github.com/tdakkota/tdakkota/blob/master/gopher.gif" />
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=ledgoor&count_private=true&show_icons=true&theme=radical"/>
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledgoor&theme=radical" />
+  </span>
+</div>
 
 <div 
   style="display:flex;

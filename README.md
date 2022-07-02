@@ -2,7 +2,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ledgoor&theme=darkhub&no-bg=true&no-frame=true">
 </div>
 
-Hi, I am Rustam from Orenburg. Passionate about Microsoft services, Windows & PowerShell. Learning technologies that I found interesting.
+Hi, I am Rustam from Orenburg. 
 
 * Open-source enthusiast and maintainer :desktop_computer:
 * Love to help people :electric_plug:

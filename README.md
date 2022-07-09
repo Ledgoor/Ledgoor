@@ -18,19 +18,19 @@
 [![VK](https://img.shields.io/badge/-vk-blue)](https://vk.com/id173471051)
 [![Instagram](https://img.shields.io/badge/-insta-hotpink)](https://instagram.com/mr_black_crazy_boy)
 [![Codewars](https://www.codewars.com/users/Ledgor/badges/micro)](https://www.codewars.com/users/Ledgor)
+<span>
+    <a href="https://ru.stackoverflow.com/users/494394/ledgor"><img src="https://ru.stackoverflow.com/users/flair/494394.png" width="208" height="58" alt="Профиль участника Ledgor на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Ledgor на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
+</span>
 
 
 <div align="center">
   <span>
-    <img src="https://github.com/tdakkota/tdakkota/blob/master/gopher.gif" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledgoor&theme=radical" />
   </span>
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=ledgoor&count_private=true&show_icons=true&theme=radical"/>
   </span>
   <span>
-    <a href="https://ru.stackoverflow.com/users/494394/ledgor"><img src="https://ru.stackoverflow.com/users/flair/494394.png" width="208" height="58" alt="Профиль участника Ledgor на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Ledgor на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
-  </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledgoor&theme=radical" />
+    <img src="https://github.com/tdakkota/tdakkota/blob/master/gopher.gif" />
   </span>
 </div>

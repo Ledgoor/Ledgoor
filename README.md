@@ -28,7 +28,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ledgoor&count_private=true&show_icons=true&theme=radical"/>
   </span>
   <span>
+    <a href="https://ru.stackoverflow.com/users/494394/ledgor"><img src="https://ru.stackoverflow.com/users/flair/494394.png" width="208" height="58" alt="Профиль участника Ledgor на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Ledgor на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
+  </span>
+  <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledgoor&theme=radical" />
   </span>
-  <a href="https://ru.stackoverflow.com/users/494394/ledgor"><img src="https://ru.stackoverflow.com/users/flair/494394.png" width="208" height="58" alt="Профиль участника Ledgor на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Ledgor на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
 </div>
